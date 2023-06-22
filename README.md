@@ -12,7 +12,7 @@ license: mit
 
 # Flower Classification
 
-<a href= "https://huggingface.co/spaces/Chukwuka/flower_classification_uk"> Click on this link to try out Flower Classification App</a>
+<a href= "https://huggingface.co/spaces/Chukwuka/flower_classification_app"> Click on this link to try out Flower Classification App</a>
 
 ## Problem Statement And Description
 We have created a 102 category dataset, consisting of 102 flower categories. The flowers chosen to be flower commonly occuring in the United Kingdom. Each class consists of between 40 and 258 images. Build a model to classify these flower images.
