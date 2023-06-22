@@ -1,0 +1,15 @@
+flower_model_29.pth filter=lfs diff=lfs merge=lfs -text
+*.jpg filter=lfs diff=lfs merge=lfs -text
+*.png filter=lfs diff=lfs merge=lfs -text
+images/wrong_prediction.png filter=lfs diff=lfs merge=lfs -text
+examples/image_00001.jpg filter=lfs diff=lfs merge=lfs -text
+examples/image_00300.jpg filter=lfs diff=lfs merge=lfs -text
+examples/image_01000.jpg filter=lfs diff=lfs merge=lfs -text
+images/flower_grid.png filter=lfs diff=lfs merge=lfs -text
+images/plot.png filter=lfs diff=lfs merge=lfs -text
+images/wrong_predicted_images.png filter=lfs diff=lfs merge=lfs -text
+examples/image_00200.jpg filter=lfs diff=lfs merge=lfs -text
+examples/image_00500.jpg filter=lfs diff=lfs merge=lfs -text
+examples/image_00600.jpg filter=lfs diff=lfs merge=lfs -text
+examples/image_00700.jpg filter=lfs diff=lfs merge=lfs -text
+examples/image_00900.jpg filter=lfs diff=lfs merge=lfs -text
